@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/css/main.10b74154.css",
-    "main.js": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/js/main.f8f54611.js",
+    "main.js": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/js/main.c6286010.js",
     "static/js/787.05aab820.chunk.js": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/js/787.05aab820.chunk.js",
     "static/media/background-img.png": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/media/background-img.fc76b0315667ec0e1cb9.png",
     "index.html": "/Anirudhmadhavkulkarni9094/Crypto-Watch/index.html",
     "main.10b74154.css.map": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/css/main.10b74154.css.map",
-    "main.f8f54611.js.map": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/js/main.f8f54611.js.map",
+    "main.c6286010.js.map": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/js/main.c6286010.js.map",
     "787.05aab820.chunk.js.map": "/Anirudhmadhavkulkarni9094/Crypto-Watch/static/js/787.05aab820.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10b74154.css",
-    "static/js/main.f8f54611.js"
+    "static/js/main.c6286010.js"
   ]
 }
