@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/css/main.10b74154.css",
-    "main.js": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/js/main.a00bdddf.js",
-    "static/js/787.05aab820.chunk.js": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/js/787.05aab820.chunk.js",
-    "static/media/background-img.png": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/media/background-img.fc76b0315667ec0e1cb9.png",
-    "index.html": "/Anirudhmadhavkulkarni9094/Crypto-watch/index.html",
-    "main.10b74154.css.map": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/css/main.10b74154.css.map",
-    "main.a00bdddf.js.map": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/js/main.a00bdddf.js.map",
-    "787.05aab820.chunk.js.map": "/Anirudhmadhavkulkarni9094/Crypto-watch/static/js/787.05aab820.chunk.js.map"
+    "main.css": "/Crypto-watch/static/css/main.10b74154.css",
+    "main.js": "/Crypto-watch/static/js/main.83d0f11a.js",
+    "static/js/787.05aab820.chunk.js": "/Crypto-watch/static/js/787.05aab820.chunk.js",
+    "static/media/background-img.png": "/Crypto-watch/static/media/background-img.fc76b0315667ec0e1cb9.png",
+    "index.html": "/Crypto-watch/index.html",
+    "main.10b74154.css.map": "/Crypto-watch/static/css/main.10b74154.css.map",
+    "main.83d0f11a.js.map": "/Crypto-watch/static/js/main.83d0f11a.js.map",
+    "787.05aab820.chunk.js.map": "/Crypto-watch/static/js/787.05aab820.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10b74154.css",
-    "static/js/main.a00bdddf.js"
+    "static/js/main.83d0f11a.js"
   ]
 }
